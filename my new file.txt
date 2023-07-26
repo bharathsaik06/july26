@@ -35,3 +35,4 @@ D:\GIT_DEMO\july26> git commit -m "created a new file"
  create mode 100644 my new file.txt
 
 D:\GIT_DEMO\july26>git push origin main
+----these are the required commands to send code into github web------
